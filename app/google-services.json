@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654013292842",
+    "firebase_url": "https://emailauthentication-5a20c.firebaseio.com",
+    "project_id": "emailauthentication-5a20c",
+    "storage_bucket": "emailauthentication-5a20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654013292842:android:814b953bf388ee6bd37e53",
+        "android_client_info": {
+          "package_name": "com.example.emailauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654013292842-uv8e9jpsrma0ndt79orjrsgivm2hf65i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emailauthentication",
+            "certificate_hash": "6de23d7121c036c60e4d40e358eb6da0f3f8795c"
+          }
+        },
+        {
+          "client_id": "654013292842-t7j8ghdrrlbtav6hinuk0r6kr5g1up3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkxDzWeDJU86muW7lmKC_CsNuxrmrXAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654013292842-t7j8ghdrrlbtav6hinuk0r6kr5g1up3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
